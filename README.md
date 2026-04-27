@@ -1,4 +1,4 @@
-# 💧 Smart Water Management System
+# 💧 Water System
 **ระบบบริหารจัดการน้ำประปาอัจฉริยะ** ที่เชื่อมโยงผู้ใช้ 3 กลุ่ม (Admin, Officer, Customer) เข้าด้วยกันผ่านฐานข้อมูลเดียว เพื่อการบริหารจัดการน้ำที่มีประสิทธิภาพและโปร่งใส
 
 ---
@@ -49,10 +49,9 @@
 ---
 
 ## 💻 เทคนิคัลสแต็ก (Technical Stack)
-* **Engine:** Node-RED (Workflow Engine & UI Dashboard)
-* **Database:** MariaDB (Relational Database)
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Protocol:** MQTT / HTTP (สำหรับการรับส่งข้อมูล)
+* **Engine:** Node-RED (ทำเว็บ, จำลองค่า)
+* **Database:** MariaDB (ฐานข้อมูล)
+* **Frontend:** HTML5, CSS3, JavaScript (เขียนเว็บและตกแต่ง)
 
 ---
 
